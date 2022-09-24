@@ -1,9 +1,8 @@
 ### :woman_technologist: About Me :
 
-- 🔭  Hi there 👋 I'm Himanshu saini.
-- 🌱 I’m interested in Web development and Competitive Programming.
-- 📫 How to reach me: himanshusaini962001@gmail.com
-
+👋 Hi, I’m Himanshu Saini 
+👀 I’m interested in Competitive Programming,Web Development 
+🌱 I’m currently learning WebD
 
 ### :hammer_and_wrench: Languages and Tools :
 
