@@ -1,8 +1,8 @@
 ### :woman_technologist: About Me :
 
-:👋 Hi, I’m Himanshu Saini 
-:👀 I’m interested in Competitive Programming,Web Development 
-:🌱 I’m currently learning WebD
+- 👋 Hi, I’m Himanshu Saini .
+- 👀 I’m interested in Competitive Programming,Web Development .
+- 🌱 I’m currently learning WebD.
 
 ### :hammer_and_wrench: Languages and Tools :
 
