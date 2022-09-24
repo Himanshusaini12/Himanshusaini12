@@ -26,5 +26,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshusaini12&layout=compact&theme=vision-friendly-dark)
 
-![GitHub Snake dark](https://github.com/Himanshusaini12/arjunsharma1152/blob/output/github-snake-dark.svg)
+![GitHub Snake dark](https://github.com/Himanshusaini12/Himanshusaini12/blob/output/github-snake-dark.svg)
 
